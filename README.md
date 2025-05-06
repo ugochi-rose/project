@@ -10,5 +10,7 @@ PHP for backend logic and server-side processing
 
 MySQL as the database for storing and managing data
 
+Bootstrap 5 for responsive design and UI components
+
 The system is designed to manage and present information related to energy infrastructure, including asset management and optimization features.
 
